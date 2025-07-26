@@ -1,6 +1,6 @@
 
-#🌈 Intelligent Historical Image Restoration
-##Deep Learning for Colorization, Denoising & Super-Resolution with Explainability
+# **🌈 Intelligent Historical Image Restoration**
+## Deep Learning for Colorization, Denoising & Super-Resolution with Explainability
 
 <!-- Add a sample result image here -->
 

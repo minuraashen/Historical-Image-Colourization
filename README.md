@@ -4,15 +4,15 @@
 
 <!-- Add a sample result image here -->
 
-##📌 Overview
-###This project restores old or grayscale images by applying:
+## **📌 Overview**
+### **This project restores old or grayscale images by applying:**
 ✔ Automatic Colorization using CNN + GAN
 ✔ Scratch Removal & Denoising
 ✔ Super-Resolution Enhancement with ESRGAN
 ✔ Explainability (Attention Heatmaps using Grad-CAM)
 ✔ Web-based Deployment for user interaction
 
-##✨ Features
+## **✨ Features**
 ✅ Automatic Colorization – Converts grayscale to realistic color
 ✅ Denoising & Scratch Removal – Removes noise and artifacts
 ✅ Super-Resolution – Enhances image quality for sharp details
@@ -20,10 +20,10 @@
 ✅ Web App – Upload and restore photos instantly
 ✅ Edge Optimized – Model converted to ONNX and quantized for deployment on low-power devices
 
-##🖼 Sample Results
+## **🖼 Sample Results**
 Input	Colorized	Restored + Super-Resolved
 
-##🏗 Project Architecture
+## **🏗 Project Architecture**
 Input Image (Grayscale)
     ↓
 [Colorization Model] → Adds realistic color
@@ -37,11 +37,11 @@ Input Image (Grayscale)
 Output Image (Restored & Colorized)
 
 
-##🔍 Dataset
-Primary Sources:
-ImageNet
-COCO Dataset
-Kaggle Historical Images
+## **🔍 Dataset**
+***Primary Sources:***
+- ImageNet  
+- COCO Dataset  
+- Kaggle Historical Images  
 
 
 

@@ -1,7 +1,7 @@
 
 # **🌈 Intelligent Historical Image Restoration** (Just Started)
 ## Deep Learning for Colorization, Denoising & Super-Resolution with Explainability
-
+***Currently initiating this project to explore and apply deep learning and image processing techniques for colorization, denoising, and super-resolution, while gaining hands-on experience with explainable AI in computer vision. Proposed features and design flow are described below.****
 <!-- Add a sample result image here -->
 
 ## **📌 Overview**
